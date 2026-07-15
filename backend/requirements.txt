@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+python-jose
+pydantic
+pydantic[email]
+python-multipart
+httpx
